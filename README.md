@@ -37,3 +37,5 @@ python -m http.server 8000 -d dist
 ## Goal
 
 Learn the concepts, recognize the patterns, practice the problems, and prepare systematically for technical interviews.
+P.S.
+This project was built through AI-assisted vibe coding, guided by my own creativity, ideas, and basic understanding of development. It was an experimental project focused on exploring what’s possible through AI-powered development.
